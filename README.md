@@ -11,7 +11,8 @@ On the other hand, forEach() is used when we do not need to return anything. It 
 answer: == checks only the value, while === checks both value and type.
 ## 4 What is the significance of async/await in fetching API data?
 answer: async/await helps JavaScript wait for data from an API without stopping the whole program.
-5) Explain the concept of Scope in JavaScript (Global, Function, Block).
+
+## 5 Explain the concept of Scope in JavaScript (Global, Function, Block).
 answer: Scope in JavaScript means where a variable can be accessed.
  Global scope is accessible everywhere.
  Function scope is accessible only inside a function
